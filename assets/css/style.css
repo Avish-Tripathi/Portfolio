@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: url("assets/img/testimonials/testimonials-1.jpg") top right no-repeat !important;
+  background: url("/assets/img/back.jpg") top right no-repeat !important;
   background-size: cover;
   left: 0;
   right: 0;
