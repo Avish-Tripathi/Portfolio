@@ -9,8 +9,9 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: url("/assets/img/back.jpg") top right no-repeat !important;
-  background-size: cover;
+/*   background: url("assets//img//back.jpg") top right no-repeat;
+  background-size: cover; */
+  background-color : blue;
   left: 0;
   right: 0;
   top: 0;
